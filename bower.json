@@ -1,0 +1,21 @@
+{
+  "name": "old-wowslider",
+  "description": "Older version for legacy support",
+  "main": "wowslider.js",
+  "keywords": [
+    "old-wowslider",
+    "wowslider"
+  ],
+  "authors": [
+    "VegasDave2k"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
